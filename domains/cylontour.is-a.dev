@@ -6,6 +6,7 @@
     "email": "janithharshana2019@gmail.com"
   },
   "record": {
-    "CNAME": "new-tourism-solution.vercel.app"
+    "CNAME": "new-tourism-solution.vercel.app",
+    "TXT": "vc-domain-verify=www.cylontour.is-a.dev,0a24154f41acb0ebd7ae"
   }
 }

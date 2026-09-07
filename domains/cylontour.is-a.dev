@@ -1,0 +1,11 @@
+{
+  "description": "Cylon Tour Frontend (Vercel)",
+  "repo": "https://github.com/HarshanaWAJ/New-Tourism-Solution",
+  "owner": {
+    "username": "HarshanaWAJ",
+    "email": "janithharshana2019@gmail.com"
+  },
+  "record": {
+    "CNAME": "new-tourism-solution.vercel.app"
+  }
+}
